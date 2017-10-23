@@ -3,6 +3,8 @@
 
 ----
 
+Machine Learning:
+
 * Machine learning is already changing the present future of humanity.
 * Information getting stored today will need to be prepared in formats ready for ML.
 * Smart devices are about to have their intelligence redefined.
