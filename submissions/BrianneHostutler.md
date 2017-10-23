@@ -3,8 +3,8 @@
 
 ----
 
-* The  @[Havanese] is a dog breed of Bichon type.
-* The national dog of Cuba is the  @[Havanese].
-*  @[Havanese] are small in size and are generally no heavier than 15 lbs.
-*  @[Havanese] have a soft double coat.
-*  @[Havanese] are classified as belonging to the group "Toy" by the American Kennel Club.
+* The  @Havanese is a dog breed of Bichon type.
+* The national dog of Cuba is the  @Havanese.
+*  @Havanese are small in size and are generally no heavier than 15 lbs.
+*  @Havanese have a soft double coat.
+*  @Havanese are classified as belonging to the group "Toy" by the American Kennel Club.
