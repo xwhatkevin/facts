@@ -4,7 +4,7 @@ This is a repository containing "facts" about different subjects you encounter i
 
 * For a programmer, facts could be syntax explanations of tar commands, or high level concepts like what a rails fixture is.
 * For a writer, these facts could be facts about fictional characters.
-* For a human, it could be the preferences of a significant other. The new words preferences by a growing daughter.
+* For a human, it could be the preferences of a significant other. Or the movie preferences that your growing daughter has.
 
 I (@hakusaro) am attempting to collect data to better understand how people understand the world around them. I think that there are a lot of systems for collecting this information, but not a lot do it well.
 
