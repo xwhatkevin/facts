@@ -10,8 +10,8 @@
 * However, all written Chinese words can be read in @Cantonese.
 
 Reddit:
-  * Reddit was founded in 2005 by Steve Huffman and Alexis Ohanian.
-  * Reddit is split into different "subreddits" that discuss different topics.
+  * Was founded in 2005 by Steve Huffman and Alexis Ohanian.
+  * Is split into different "subreddits" that discuss different topics.
   * Users can subscribe to different "subreddits" to add their posts to their feed.
   * Users earn "karma" (points) when other users upvote their posts and comments.
   * On the subreddit IAmA, users offer to answer questions from others.
