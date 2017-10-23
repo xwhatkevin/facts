@@ -32,8 +32,8 @@ Submit facts following the template below. Make it called ```your-github-name.md
 Make sure to at least give five facts about one subject. Facts are ideally not silly, like a fact that says "I love my @daughter." While true, it conveys no real information that couldn't be called obvious.
 
 ```markdown
-submitter: @github name
-statement: I hereby agree that the facts I have submitted are my own, and that I grant a license for Pryaxis Limited, or designated entities by Pryaxis Limited, the ability to use this data in a way to promote future Pryaxis services.
+* submitter: @github name
+* statement: I hereby agree that the facts I have submitted are my own, and that I grant a license for Pryaxis Limited, or designated entities by Pryaxis Limited, the ability to use this data in a way to promote future Pryaxis services.
 
 ----
 
