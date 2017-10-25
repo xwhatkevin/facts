@@ -2,7 +2,6 @@
 * statement: I hereby agree that the facts I have submitted are my own, and that I grant a license for Pryaxis Limited, or designated entities by Pryaxis Limited, the ability to use this data in a way to promote future Pryaxis services.
 
 ----
-Pomeranians
 
 * @Pomeranians are descended from the German Spitz.
 * Queen Victoria owned a small @Pomeranian which popularized the breed.
